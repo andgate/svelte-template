@@ -1,0 +1,26 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "emmet.includeLanguages": {
+    "postcss": "css"
+  },
+  "typescript.format.semicolons": "remove",
+  "editor.formatOnSave": true,
+  "files.eol": "\n",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  },
+  "svelte.enable-ts-plugin": true,
+  "versionlens.npm.files": "**/package.json",
+  "vitest.enable": true
+}

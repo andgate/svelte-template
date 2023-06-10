@@ -1,0 +1,16 @@
+{
+  "extends": "tsconfig/base.json",
+  "include": [
+    "./src/**/*.js",
+    "./src/**/*.spec.js",
+    "./src/**/*.ts",
+    "./src/**/*.spec.ts",
+    "./src/**/*.svelte",
+    "./setup-test.ts"
+  ],
+  "exclude": [
+    "./src/**/*.svelte",
+    "node_modules/*",
+    "**/*.cjs"
+  ]
+}

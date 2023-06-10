@@ -1,0 +1,14 @@
+.DS_Store
+dist
+node_modules
+.env
+.env.*
+!.env.example
+vite.config.js*
+.svelte-kit
+
+# Ignore files for PNPM, NPM and YARN
+pnpm-lock.yaml
+pnpm-workspace.yaml
+
+.mypy_cache

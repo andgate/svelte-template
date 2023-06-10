@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "gruntfuggly.todo-tree",
+    "dbaeumer.vscode-eslint",
+    "svelte.svelte-vscode",
+    "pflannery.vscode-versionlens",
+    "bradlc.vscode-tailwindcss",
+    "zixuanchen.vitest-explorer"
+  ]
+}
